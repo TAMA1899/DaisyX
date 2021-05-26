@@ -8,7 +8,7 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/TAMA1899/DaisyX/Daisy-x",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
@@ -22,12 +22,12 @@
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "3448718",
       "required": true
     },
     "APP_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "5e6d19055850eb5b35720a87e798d0b0",
       "required": true
     },
     "MONGO_URI": {
@@ -38,7 +38,7 @@
     },
     "ARQ_API": {
       "description": "Get this from @ARQRobot",
-      "value": "",
+      "value": "TTCART-ZLRUZJ-BUIWHN-YUHVQE-ARQ",
       "required": true
       
     },
@@ -54,12 +54,12 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Your heroku app name (not compulsory)",
-      "value": "",
+      "value": "assrobote",
       "required": false  
     },
     "HEROKU_API_KEY": {
       "description": "Your heroku api key (not compulsory)",
-      "value": "",
+      "value": "95e5e3ab-0ca7-412a-a236-fab137d22f8e",
       "required": false  
     },
     "UPSTREAM_REPO_URL": {
@@ -73,7 +73,7 @@
     },
     "API_PORT": {
       "description": "Your Bot Token Obtained From @BotFather.",
-      "value": ""
+      "value": "1674249843:AAGawygR8tTbTbwwuF8V8sGTFyG5gwLxGNQ"
     },
     "REDIS_URI": {
       "description": "Get from redislabs.com",
@@ -91,18 +91,18 @@
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Id",
+      "description": "justthetech",
       "value": "",
       "required": true
     },
     "OPERATORS": {
       "description": "Space seperated list of sudoes",
-      "value": "",
+      "value": "994286253 1034473881 ",
       "required": true
     },
     "SUPPORT_CHAT": {
       "description": "support chat id",
-      "value": "",
+      "value": "-1001348466086",
       "required": true
     },
     "LYDIA_API_KEY": {
@@ -172,7 +172,7 @@
     },
     "LOGS_CHANNEL_ID": {
       "description": "Id of your log group/channel",
-      "value": "",
+      "value": "-1001348466086",
       "required": true
     },
     "ALLOW_FORWARDS_COMMANDS": {
@@ -182,12 +182,12 @@
     },
     "TOKEN": {
       "description": "Tg bot token by @BotFarther",
-      "value": "",
+      "value": "1674249843:AAGawygR8tTbTbwwuF8V8sGTFyG5gwLxGNQ",
       "required": true
     },
     "STRING_SESSION": {
       "description": "run repl run And get your String Session",
-      "value": "",
+      "value": "1BVtsOMEBu2hHOhVumsmWt__ECuw7iLVYpURgOu_iSfseBXaAz37iOYuDhK0eF3tgs0w-tdIxM68ErNe0wYD-uCbb5lv9hrGnW3ygvlyjKZtbQRO8x1BAXVegc4PW_OshKOTWXv1fS7DfqBGtM2T6uMF1BT1pUxdWoZTWIwirQ8ks1HZpftWNhIJVQP_PM-_5MwOt81AEMahyMPSeDxWHLIOmr4JND07HtbLplw3doQIXwwEdmyrY6yNoi5OKOEyLtZdlqXWbRirs5OaWk2ER1SwuhZ2L8TISgpAJSkTPFl_T4iY3UL0VjTt9pRssW1LykaK1vwoTtwsZggNvMEsame1-c6MjuTQ=",
       "required": true
     }
   }
