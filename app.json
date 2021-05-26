@@ -32,7 +32,7 @@
     },
     "MONGO_URI": {
       "description": "Create A Database In Mongodb And Get URL",
-      "value": "",
+      "value": "mongodb+srv://robot:<saw1899>@cluster0.cx1gi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
       
     },
@@ -77,27 +77,27 @@
     },
     "REDIS_URI": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "redis-12026.c245.us-east-1-3.ec2.cloud.redislabs.com",
       "required": true
     },
     "REDIS_PORT": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "12026",
       "required": true
     },
     "REDIS_PASS": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "csfBQWb26OYy9wFoh0aIgw3raRomV8ly",
       "required": true
     },
     "OWNER_ID": {
       "description": "justthetech",
-      "value": "",
+      "value": "justthetech",
       "required": true
     },
     "OPERATORS": {
       "description": "Space seperated list of sudoes",
-      "value": "994286253 1034473881 ",
+      "value": "994286253",
       "required": true
     },
     "SUPPORT_CHAT": {
@@ -132,7 +132,7 @@
     },
     "SW_API": {
       "description": "Spamwatch api @SpamWatchBot",
-      "value": "",
+      "value": "g~Nn7eRDdiAc3PUlCc2v0s7TjK73qZxs0_PhMzmX~_Vu13o6m4ITM0WoKqcZdwpl",
       "required": true
     },
     "IBM_WATSON_CRED_URL": {
