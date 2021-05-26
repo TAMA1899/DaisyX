@@ -32,13 +32,13 @@
     },
     "MONGO_URI": {
       "description": "Create A Database In Mongodb And Get URL",
-      "value": "mongodb+srv://robot:<saw1899>@cluster0.cx1gi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "value": "mongodb+srv://robot:saw1899@cluster0.cx1gi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
       
     },
     "ARQ_API": {
       "description": "Get this from @ARQRobot",
-      "value": "TTCART-ZLRUZJ-BUIWHN-YUHVQE-ARQ",
+      "value": "KPMNRZ-ZJRSXW-PVZCBG-HEHYQR-ARQ",
       "required": true
       
     },
@@ -73,7 +73,7 @@
     },
     "API_PORT": {
       "description": "Your Bot Token Obtained From @BotFather.",
-      "value": "1674249843:AAGawygR8tTbTbwwuF8V8sGTFyG5gwLxGNQ"
+      "value": "1674249843"
     },
     "REDIS_URI": {
       "description": "Get from redislabs.com",
@@ -112,7 +112,7 @@
     },
     "DATABASE_URL": {
       "description": "get from elephantsql.com",
-      "value": "",
+      "value": "postgres://kukfzxqa:xSK4MX7MT79EJeySZggooEMeMAz4u-zj@topsy.db.elephantsql.com/kukfzxqa",
       "required": true
     },
     "VIRUS_API_KEY": {
@@ -132,7 +132,7 @@
     },
     "SW_API": {
       "description": "Spamwatch api @SpamWatchBot",
-      "value": "g~Nn7eRDdiAc3PUlCc2v0s7TjK73qZxs0_PhMzmX~_Vu13o6m4ITM0WoKqcZdwpl",
+      "value": "Gbd__OR0HAl~y9K2IFcCReV2SdAIurFWk_qlsg3JL4DrNcRwlcjhi_EpumpmmkXM",
       "required": true
     },
     "IBM_WATSON_CRED_URL": {
